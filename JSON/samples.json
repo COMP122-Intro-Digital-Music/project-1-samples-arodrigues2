@@ -1,1 +1,20 @@
-[ ]
+[
+  {
+    "name": "Trump 1",
+    "file": "samples/audiomass-output_1_.mp3",
+    "bpm": "120",
+    "loop": "3m"
+  },
+  {
+    "name": "Trump 2",
+    "file": "samples/audiomass-output_8_.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Trump 3",
+    "file": "samples/audiomass-output_11_.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
